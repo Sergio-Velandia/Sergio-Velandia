@@ -2,9 +2,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   Hola, soy Sergio Velandia 👋                               ║
+║   Hola, soy Sergio Velandia                                  ║
 ║   Desarrollador de Software · React & Automatización con IA  ║
-║   Construyo ideas que escalan — Bogotá, Colombia 🇨🇴          ║
+║   Ingeniería de software aplicada al flujo de trabajo.       ║
+║  Bogotá, Colombia 🇨🇴                                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -21,9 +22,9 @@
 ```yaml
 rol:          Desarrollador de Software en formación
 ubicación:    Bogotá, Colombia 🇨🇴
-enfoque:      React · Automatización con IA · Arquitecturas Serverless
-aprendiendo:  Lua OOP avanzado · Supabase · Apps móviles con Capacitor
-actualmente:  Desarrollando ExplosionArt — videojuego de terror en Roblox Studio
+enfoque:      N8N · JavaScript · BD · IA · React · Node.js
+aprendiendo:  AI Agents & RAG Workflows · Advanced Workflow Automation (n8n) · Full-Stack & Scalable Databases
+actualmente:  Construyendo automatizaciones inteligentes, creando flujos con n8n y aprendiendo todos los días un poco más sobre desarrollo web.
 ```
 
 Me especializo en crear soluciones rápidas, escalables y automatizadas combinando desarrollo web moderno con flujos de trabajo inteligentes. Desde interfaces React hasta agentes de IA que procesan datos de forma autónoma.
@@ -36,32 +37,31 @@ Me especializo en crear soluciones rápidas, escalables y automatizadas combinan
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0d0f14?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0f14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d0f14?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-0d0f14?style=for-the-badge&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-0d0f14?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Capacitor](https://img.shields.io/badge/Capacitor-0d0f14?style=for-the-badge&logo=capacitor&logoColor=119EFF)
+![HTML & CSS](https://img.shields.io/badge/HTML5_%2F_CSS3-0d0f14?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 **Backend & Base de datos**
 
+![Node.js](https://img.shields.io/badge/Node.js-0d0f14?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Supabase](https://img.shields.io/badge/Supabase-0d0f14?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0f14?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d0f14?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0f14?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0f14?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-**Automatización & IA**
+**IA, Automatización & APIs**
 
 ![n8n](https://img.shields.io/badge/n8n-0d0f14?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Webhooks](https://img.shields.io/badge/Webhooks-0d0f14?style=for-the-badge&logo=zapier&logoColor=FF4A00)
+![Agentes IA](https://img.shields.io/badge/Agentes_IA-0d0f14?style=for-the-badge&logo=openai&logoColor=7E22CE)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0d0f14?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Postman](https://img.shields.io/badge/Postman-0d0f14?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-**Herramientas & Deploy**
+**Herramientas & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-0d0f14?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0f14?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0f14?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-0d0f14?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0d0f14?style=for-the-badge&logo=githubpages&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d0f14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Luau](https://img.shields.io/badge/Luau-0d0f14?style=for-the-badge&logo=lua&logoColor=00A2FF)
 
 </div>
 
@@ -114,23 +114,26 @@ Me especializo en crear soluciones rápidas, escalables y automatizadas combinan
     <td width="50%">
       <h3>📈 Aprendiendo ahora</h3>
       <br/>
-      <p>🟧🟧🟧🟧🟧🟧🟦🟦🟦🟦 <strong>Lua OOP</strong> 65%</p>
-      <p>🟧🟧🟧🟧🟦🟦🟦🟦🟦🟦 <strong>Supabase</strong> 40%</p>
-      <p>🟧🟧🟧🟦🟦🟦🟦🟦🟦🟦 <strong>Apps móviles</strong> 35%</p>
+      <p>🟧🟧🟧🟧🟧🟧🟦🟦🟦🟦 <strong>AI Agents & RAG Workflows</strong> 65%</p>
+      <p>🟧🟧🟧🟧🟦🟦🟦🟦🟦🟦 <strong>Advanced Workflow Automation (n8n)</strong> 40%</p>
+      <p>🟧🟧🟧🟦🟦🟦🟦🟦🟦🟦 <strong>Full-Stack & Scalable Databases</strong> 35%</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏅 Certificaciones SENA 2025
+### 🏅 Certificaciones Destacadas
 
 <div align="center">
 
+![IBM](https://img.shields.io/badge/IBM_Full--Stack_JavaScript_Developer-Coursera-052FAD?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google_AI_Essentials-Coursera-4285F4?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Apply_API_Testing_%26_Automation-Postman-FF6C37?style=for-the-badge)
+![n8n](https://img.shields.io/badge/AI_Automation_Engineer_with_n8n-Coursera-EA4B71?style=for-the-badge)
+
 ![Python](https://img.shields.io/badge/🐍_Análisis_Exploratorio_de_Datos_en_Python-SENA_2025-3776AB?style=for-the-badge)
-
 ![Java](https://img.shields.io/badge/☕_Aplicaciones_con_Interfaz_Gráfica_en_Java-SENA_2025-ED8B00?style=for-the-badge)
-
 ![MySQL](https://img.shields.io/badge/🗄️_Construcción_de_Bases_de_Datos_con_MySQL-SENA_2025-4479A1?style=for-the-badge)
 
 </div>
