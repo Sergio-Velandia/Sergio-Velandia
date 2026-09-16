@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Sergio+Andr%C3%A9s+Ram%C3%ADrez+Velandia;Desarrollador+Full-Stack+en+Formaci%C3%B3n;React+%2B+Node.js+%2B+n8n+%2B+IA;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f14,100:C9A96E&height=200&section=header&text=Sergio%20Andr%C3%A9s%20Ram%C3%ADrez%20Velandia&fontSize=38&fontColor=F0EDE8&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full-Stack%20en%20Formaci%C3%B3n%20%7C%20React%20%C2%B7%20n8n%20%C2%B7%20IA&descSize=18&descAlignY=58&descColor=C9A96E" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Frontend+%2B+Backend+Developer;Automatizaci%C3%B3n+con+n8n+%26+Webhooks;Integraci%C3%B3n+de+IA+(LLMs+%2F+RAG);Game+Dev+en+Roblox+Studio+%2F+Lua;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 
 <br/>
 
@@ -28,6 +30,12 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
+
+</div>
+
+<div align="center">
+
 | 🎯 En búsqueda de | 🚀 Disponibilidad |
 |:---:|:---:|
 | Contrato de Aprendizaje | Tiempo completo |
@@ -42,18 +50,12 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0f14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d0f14?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-0d0f14?style=for-the-badge&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-0d0f14?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0f14?style=for-the-badge&logo=css3&logoColor=1572B6)
+<img src="https://skillicons.dev/icons?i=js,react,vite,html,css&theme=dark" />
 
 **Backend & Automatización**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d0f14?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d0f14?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
 ![n8n](https://img.shields.io/badge/n8n-0d0f14?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d0f14?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0d0f14?style=for-the-badge&logo=webhooks&logoColor=white)
 
 **Inteligencia Artificial**
@@ -66,23 +68,16 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 **Bases de datos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0f14?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d0f14?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0f14?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-0d0f14?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" />
 
 **Game Dev**
 
-![Lua](https://img.shields.io/badge/Lua-0d0f14?style=for-the-badge&logo=lua&logoColor=2C2D72)
+<img src="https://skillicons.dev/icons?i=lua&theme=dark" />
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d0f14?style=for-the-badge&logo=roblox&logoColor=white)
 
 **Herramientas & DevOps**
 
-![Git](https://img.shields.io/badge/Git-0d0f14?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0f14?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d0f14?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Postman](https://img.shields.io/badge/Postman-0d0f14?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Notion](https://img.shields.io/badge/Notion-0d0f14?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,notion&theme=dark" />
 
 </div>
 
@@ -214,12 +209,71 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sergio-Velandia&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=C9A96E&icon_color=C9A96E&text_color=F0EDE8&ring_color=C9A96E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Velandia&layout=compact&hide_border=true&bg_color=0d0f14&title_color=C9A96E&text_color=F0EDE8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Velandia&layout=pie&hide_border=true&bg_color=0d0f14&title_color=C9A96E&text_color=F0EDE8" />
 
 <img src="https://streak-stats.demolab.com?user=Sergio-Velandia&hide_border=true&background=0d0f14&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=8A8D96&dates=3E4250&currStreakNum=F0EDE8&sideNums=F0EDE8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergio-Velandia&bg_color=0d0f14&color=C9A96E&line=C9A96E&point=F0EDE8&area=true&hide_border=true" width="100%"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Sergio-Velandia&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" />
+
+</div>
+
+<!--
+🐍 Snake de contribuciones — requiere un GitHub Action en tu repo de perfil.
+1. Crea .github/workflows/snake.yml con la acción Platane/snk
+2. Cuando corra, genera un SVG animado que puedes referenciar aquí, ej:
+<img src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+-->
+
+---
+
+### ⏱️ Tiempo de código (WakaTime)
+
+<!--
+Requiere conectar tu cuenta de WakaTime y añadir tu API key como secret WAKATIME_API_KEY
+en un Action (athul/waka-readme). Una vez configurado, este bloque se actualiza solo.
+-->
+
+```text
+Configura WakaTime + el Action "waka-readme" para mostrar aquí tus horas
+de código por lenguaje y editor, actualizadas automáticamente cada día.
+```
+
+---
+
+### 🎧 Ahora estoy escuchando
+
+<!--
+Requiere el Action "spotify-github-profile" (kittinan/spotify-github-profile)
+con tus credenciales de Spotify (Client ID/Secret) como secrets del repo.
+Una vez activo, reemplaza este bloque por:
+<img src="https://novatorem-sergio.vercel.app/api/spotify" width="400" />
+-->
+
+<div align="center">
+
+`🎵 Widget de Spotify pendiente de conectar — ver comentario en el código fuente`
+
+</div>
+
+---
+
+### ✍️ Últimos artículos
+
+<!--
+Requiere el Action "blog-post-workflow" apuntando a tu feed RSS de Dev.to o Medium.
+Una vez configurado, esta lista se llena y actualiza sola con tus últimos posts:
+-->
+<!-- BLOG-POST-LIST:START -->
+- Aún no hay artículos publicados — conecta tu feed de Dev.to/Medium para que aparezcan aquí automáticamente.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/scarf-mocha-rounded.png" width="1"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
 </div>
 
 ---
@@ -242,3 +296,5 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 _Hecho con ❤️ y mucho café desde Bogotá 🇨🇴_
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A96E,100:0d0f14&height=100&section=footer" width="100%"/>
