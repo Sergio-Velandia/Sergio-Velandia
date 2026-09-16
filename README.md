@@ -26,13 +26,7 @@ idiomas:        Español (nativo) · Inglés (B2 - Intermedio)
 enfoque:        Ecosistema JavaScript · Automatización con n8n · Integración de IA (LLMs) · Game Dev
 ```
 
-Combino desarrollo web moderno con automatización inteligente: desde interfaces en **React** hasta agentes que auditan código y documentan proyectos con **LLMs**. También programo mecánicas de juego en **Lua/Roblox Studio**. Aprendo construyendo — cada proyecto nuevo es una excusa para meterle una tecnología que aún no domino del todo.
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
-
-</div>
+Combino desarrollo web moderno con automatización inteligente: desde interfaces en React hasta agentes que auditan código y documentan proyectos con LLMs. También programo mecánicas de juego en Lua. Aprendo construyendo — cada proyecto nuevo es una excusa para meterle una tecnología que aún no domino del todo.
 
 <div align="center">
 
@@ -55,8 +49,9 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 **Backend & Automatización**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
-![n8n](https://img.shields.io/badge/n8n-0d0f14?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Webhooks](https://img.shields.io/badge/Webhooks-0d0f14?style=for-the-badge&logo=webhooks&logoColor=white)
+
+<img src="https://img.shields.io/badge/n8n-0d0f14?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/Webhooks-0d0f14?style=for-the-badge" />
 
 **Inteligencia Artificial**
 
@@ -73,7 +68,8 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 **Game Dev**
 
 <img src="https://skillicons.dev/icons?i=lua&theme=dark" />
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d0f14?style=for-the-badge&logo=roblox&logoColor=white)
+
+<img src="https://img.shields.io/badge/Roblox_Studio-0d0f14?style=for-the-badge&logo=roblox&logoColor=white" />
 
 **Herramientas & DevOps**
 
@@ -225,49 +221,6 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 2. Cuando corra, genera un SVG animado que puedes referenciar aquí, ej:
 <img src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 -->
-
----
-
-### ⏱️ Tiempo de código (WakaTime)
-
-<!--
-Requiere conectar tu cuenta de WakaTime y añadir tu API key como secret WAKATIME_API_KEY
-en un Action (athul/waka-readme). Una vez configurado, este bloque se actualiza solo.
--->
-
-```text
-Configura WakaTime + el Action "waka-readme" para mostrar aquí tus horas
-de código por lenguaje y editor, actualizadas automáticamente cada día.
-```
-
----
-
-### 🎧 Ahora estoy escuchando
-
-<!--
-Requiere el Action "spotify-github-profile" (kittinan/spotify-github-profile)
-con tus credenciales de Spotify (Client ID/Secret) como secrets del repo.
-Una vez activo, reemplaza este bloque por:
-<img src="https://novatorem-sergio.vercel.app/api/spotify" width="400" />
--->
-
-<div align="center">
-
-`🎵 Widget de Spotify pendiente de conectar — ver comentario en el código fuente`
-
-</div>
-
----
-
-### ✍️ Últimos artículos
-
-<!--
-Requiere el Action "blog-post-workflow" apuntando a tu feed RSS de Dev.to o Medium.
-Una vez configurado, esta lista se llena y actualiza sola con tus últimos posts:
--->
-<!-- BLOG-POST-LIST:START -->
-- Aún no hay artículos publicados — conecta tu feed de Dev.to/Medium para que aparezcan aquí automáticamente.
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
