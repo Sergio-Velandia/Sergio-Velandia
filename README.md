@@ -137,14 +137,15 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 ExplosionArt Game</h3>
-      <p><em>6 meses de desarrollo</em></p><img width="552" height="276" alt="oracle-badge" src="" />
-
+      <p><em>6 meses de desarrollo</em></p>
       <p>Videojuego de terror cooperativo en Lua con OOP avanzada para el universo del canal ExplosionArt.</p>
       <ul>
         <li>Pathfinding dinámico de NPCs</li>
         <li>Ritual multijugador de 7 pasos</li>
         <li>Sistema de sonido ambiental por fases</li>
       </ul>
+      <p><strong>🎬 Vista previa</strong></p>
+      <p>https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939</p>
       <p>
         <img src="https://img.shields.io/badge/Lua-0d0f14?style=flat-square&logo=lua&logoColor=2C2D72"/>
         <img src="https://img.shields.io/badge/Roblox_Studio-0d0f14?style=flat-square&logo=roblox&logoColor=white"/>
@@ -184,7 +185,6 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 ---
 
-
 ### 🏅 Certificaciones
 
 <div align="center">
@@ -206,8 +206,8 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sergio-Velandia&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=C9A96E&icon_color=C9A96E&text_color=F0EDE8&ring_color=C9A96E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Velandia&layout=pie&hide_border=true&bg_color=0d0f14&title_color=C9A96E&text_color=F0EDE8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Sergio-Velandia&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=C9A96E&icon_color=C9A96E&text_color=F0EDE8&ring_color=C9A96E" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sergio-Velandia&layout=pie&hide_border=true&bg_color=0d0f14&title_color=C9A96E&text_color=F0EDE8" />
 
 <img src="https://streak-stats.demolab.com?user=Sergio-Velandia&hide_border=true&background=0d0f14&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=8A8D96&dates=3E4250&currStreakNum=F0EDE8&sideNums=F0EDE8" />
 
