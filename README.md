@@ -200,7 +200,7 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 ---
 
-### 🎖️ Certificado Oracle
+### 🎖️ Badges
 
 <div align="center">
 
