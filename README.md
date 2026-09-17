@@ -137,7 +137,7 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 ExplosionArt Game</h3>
-      <p><em>6 meses de desarrollo</em></p><img width="552" height="276" alt="oracle-badge" src="https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939" />
+      <p><em>6 meses de desarrollo</em></p><img width="552" height="276" alt="oracle-badge" src="" />
 
       <p>Videojuego de terror cooperativo en Lua con OOP avanzada para el universo del canal ExplosionArt.</p>
       <ul>
@@ -183,14 +183,6 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 </div>
 
 ---
-
-### 🎖️ Badges
-<!-- Oracle Java Foundations Badge -->
-<p align="center">
-  <a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations-training-and-assessment/152239" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Oracle-Java_Foundations_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Foundations Certified" />
-  </a>
-</p>
 
 
 ### 🏅 Certificaciones
