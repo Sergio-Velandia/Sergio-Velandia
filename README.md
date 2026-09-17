@@ -183,6 +183,15 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 ---
 
+### 🎖️ Badges
+<!-- Oracle Java Foundations Official Badge -->
+<p align="center">
+  <a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations-training-and-assessment/152239" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/sergio-velandia/sergio-velandia/main/assets/oracle-java-foundations.png" alt="Oracle Java Foundations Badge" width="140" />
+  </a>
+</p>
+
+
 ### 🏅 Certificaciones
 
 <div align="center">
