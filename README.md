@@ -205,6 +205,8 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939" width="300" alt="Oracle Certification Badge"/>
+<br/>
+<b>Oracle Java Foundations</b>
 
 </div>
 
