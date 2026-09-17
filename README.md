@@ -144,8 +144,6 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
         <li>Ritual multijugador de 7 pasos</li>
         <li>Sistema de sonido ambiental por fases</li>
       </ul>
-      <p><strong>🎬 Vista previa</strong></p>
-      <p>https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939</p>
       <p>
         <img src="https://img.shields.io/badge/Lua-0d0f14?style=flat-square&logo=lua&logoColor=2C2D72"/>
         <img src="https://img.shields.io/badge/Roblox_Studio-0d0f14?style=flat-square&logo=roblox&logoColor=white"/>
@@ -197,6 +195,16 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 ![Python](https://img.shields.io/badge/🐍_Análisis_Exploratorio_de_Datos_en_Python-SENA_2025-3776AB?style=for-the-badge)
 ![Java](https://img.shields.io/badge/☕_Interfaz_Gráfica_%26_POO_en_Java-SENA_2025-ED8B00?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/🗄️_Construcción_de_BD_con_MySQL-SENA_2025-4479A1?style=for-the-badge)
+
+</div>
+
+---
+
+### 🎖️ Certificado Oracle
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939" width="300" alt="Oracle Certification Badge"/>
 
 </div>
 
