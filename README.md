@@ -200,26 +200,28 @@ Combino desarrollo web moderno con automatización inteligente: desde interfaces
 
 ---
 
-### 🎖️ Certificado Oracle
+### 🎖️ Badges Oracle
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939" width="300" alt="Oracle Certification Badge"/>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/c1ea76dc-b95f-41b7-9f31-b8361cef3939" width="150" alt="Oracle Certification Badge"/>
 <br/>
 <b>Oracle Java Foundations</b>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/main/oracle-MySQL.png" width="300" alt="Oracle MySQL Badge"/>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/main/oracle-MySQL.png" width="150" alt="Oracle MySQL Badge"/>
 <br/>
 <b>Oracle MySQL</b>
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/main/oracle-database.png" width="300" alt="Oracle Database Badge"/>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/main/oracle-database.png" width="150" alt="Oracle Database Badge"/>
 <br/>
 <b>Oracle Database</b>
-
+</td>
+</tr>
+</table>
 </div>
 
 ---
