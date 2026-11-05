@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f14,100:C9A96E&height=200&section=header&text=Sergio%20Andr%C3%A9s%20Ram%C3%ADrez%20Velandia&fontSize=38&fontColor=F0EDE8&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20en%20formaci%C3%B3n%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20n8n&descSize=18&descAlignY=58&descColor=C9A96E" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=700&lines=Moss+%C2%B7+jard%C3%ADn+digital+donde+documento+lo+que+aprendo;Moss+Nexus+%C2%B7+flujos+de+n8n+probados+y+documentados;React+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Vitest;Buscando+contrato+de+aprendizaje+%F0%9F%87%A8%F0%9F%87%B4" alt="Moss, Moss Nexus, stack y búsqueda de contrato de aprendizaje" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=700&lines=Moss+%C2%B7+jard%C3%ADn+digital+donde+documento+lo+que+aprendo;Moss+Nexus+%C2%B7+flujos+de+n8n+probados+y+documentados;Moss+Taste+%C2%B7+recetario+familiar+con+costos+en+COP;React+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Firebase;Buscando+contrato+de+aprendizaje+%F0%9F%87%A8%F0%9F%87%B4" alt="Moss, Moss Nexus, Moss Taste, stack y búsqueda de contrato de aprendizaje" />
 
 <br/>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-sergio--velandia.dev-C9A96E?style=for-the-badge&logo=googlechrome&logoColor=0d0f14)](https://sergio-velandia.dev/mi-portafolio/)
 [![Moss](https://img.shields.io/badge/Moss-jard%C3%ADn_digital-6B8F5E?style=for-the-badge&logo=leaflet&logoColor=white)](https://sergio-velandia.dev/Moss/)
 [![Moss Nexus](https://img.shields.io/badge/Moss_Nexus-plantillas_n8n-E8735A?style=for-the-badge&logo=n8n&logoColor=white)](https://sergio-velandia.dev/Moss-Nexus/)
+[![Moss Taste](https://img.shields.io/badge/Moss_Taste-recetario_familiar-B5532F?style=for-the-badge&logo=firebase&logoColor=white)](https://sergio-velandia.dev/Moss-Taste/)
 
 [![Email](https://img.shields.io/badge/contacto@sergio--velandia.dev-0d0f14?style=flat-square&logo=maildotru&logoColor=C9A96E)](mailto:contacto@sergio-velandia.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio--Velandia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio-Velandia)
@@ -22,7 +23,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://sergio-velandia.dev/mi-portafolio/">
         <img src="https://opengraph.githubassets.com/1/Sergio-Velandia/mi-portafolio" width="100%" alt="Vista previa del portafolio"/>
       </a>
@@ -30,7 +31,7 @@
       <p>Quién soy, qué hago y cómo contactarme. Bilingüe (ES/EN) con formulario de contacto funcional.</p>
       <a href="https://sergio-velandia.dev/mi-portafolio/"><b>Ver en vivo →</b></a>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://sergio-velandia.dev/Moss/">
         <img src="https://opengraph.githubassets.com/1/Sergio-Velandia/Moss" width="100%" alt="Vista previa de Moss"/>
       </a>
@@ -38,7 +39,9 @@
       <p>Mi jardín digital: laboratorio de componentes, manual técnico, bitácora y rutas de aprendizaje. Aquí explico el <em>porqué</em>.</p>
       <a href="https://sergio-velandia.dev/Moss/"><b>Ver en vivo →</b></a>
     </td>
-    <td width="33%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <a href="https://sergio-velandia.dev/Moss-Nexus/">
         <img src="https://opengraph.githubassets.com/1/Sergio-Velandia/Moss-Nexus" width="100%" alt="Vista previa de Moss Nexus"/>
       </a>
@@ -46,10 +49,18 @@
       <p>Librería de flujos de n8n listos para copiar. Cada plantilla probada en una instancia real, con su sello y sus limitaciones documentadas.</p>
       <a href="https://sergio-velandia.dev/Moss-Nexus/"><b>Ver en vivo →</b></a>
     </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://sergio-velandia.dev/Moss-Taste/">
+        <img src="https://opengraph.githubassets.com/1/Sergio-Velandia/Moss-Taste" width="100%" alt="Vista previa de Moss Taste"/>
+      </a>
+      <h4>🍲 Moss Taste</h4>
+      <p>Recetario familiar con cuentas de usuario y base de datos en Firebase. Calcula el costo por porción en COP, filtra recetas por presupuesto y tiene un modo cocina con temporizadores.</p>
+      <a href="https://sergio-velandia.dev/Moss-Taste/"><b>Ver en vivo →</b></a>
+    </td>
   </tr>
 </table>
 
-> **Moss y Nexus van de la mano:** cada guía de Moss enlaza a una plantilla real de Nexus, y cada plantilla enlaza a la guía que la explica.
+> **Moss y Nexus van de la mano:** cada guía de Moss enlaza a una plantilla real de Nexus, y cada plantilla enlaza a la guía que la explica. **Moss Taste** es un proyecto independiente; su arquitectura está documentada en la sección de proyectos de Moss.
 
 ---
 
@@ -89,11 +100,12 @@ Aprendo construyendo y documentando. Cada proyecto lo trabajo por **fases**, con
 
 **Automatización y backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,postman&theme=dark" alt="Node.js, Express, Docker, Postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,docker,postman&theme=dark" alt="Node.js, Express, Firebase, Docker, Postman" />
 <br/>
 <img src="https://img.shields.io/badge/n8n-0d0f14?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
 <img src="https://img.shields.io/badge/Webhooks-0d0f14?style=for-the-badge" alt="Webhooks" />
 <img src="https://img.shields.io/badge/Google_APIs_·_OAuth_2.0-0d0f14?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google APIs con OAuth 2.0" />
+<img src="https://img.shields.io/badge/Firebase_Authentication-0d0f14?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase Authentication" />
 
 **Calidad, despliegue e infraestructura**
 
@@ -102,6 +114,8 @@ Aprendo construyendo y documentando. Cada proyecto lo trabajo por **fases**, con
 **Bases de datos**
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+<br/>
+<img src="https://img.shields.io/badge/Cloud_Firestore-0d0f14?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Cloud Firestore" />
 
 **IA aplicada al desarrollo**
 
@@ -138,8 +152,8 @@ Aprendo construyendo y documentando. Cada proyecto lo trabajo por **fases**, con
 
 ### 🌱 Ahora mismo
 
+- 🍲 **Moss Taste v1.0.0 publicado:** recetario familiar con login, Firestore, costos por porción en COP y modo cocina con temporizadores.
 - 🧪 **Probando y sellando las plantillas de Moss Nexus** una por una, en n8n real. Ya encontré y corregí fallos reales (filtros de adjuntos, montos en formato colombiano que sumaban cero).
-- 🍲 **Moss Taste:** recetario familiar con login, base de datos y cálculo de costos en COP (Firebase, plan gratuito). *En desarrollo.*
 - 🧩 **DevAsset:** mi primer backend propio. *En diseño.*
 - ☁️ Curso de bases de datos en **Google Cloud**.
 
