@@ -13,9 +13,11 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" alt=""/> Hola, soy Sergio
 
-Estudio Tecnología en Desarrollo de Software en la Uniagustiniana (jornada nocturna) y busco un **contrato de aprendizaje** de tiempo completo. Me muevo entre dos cosas: **automatizar procesos con n8n** y **construir aplicaciones web** con React, TypeScript y Firebase.
+Automatizo lo que hoy alguien hace a mano: facturas que llegan al correo y terminan ordenadas en una hoja de cálculo, alertas que avisan solas cuando algo falla. Lo hago con **n8n**, y construyo aplicaciones web con **React, TypeScript y Firebase**.
 
-Trabajo cada proyecto por fases, con versiones, CHANGELOG, pruebas y una fase legal antes de darlo por terminado. Si algo no lo he probado, lo digo.
+6.º semestre de Tecnología en Desarrollo de Software (Uniagustiniana, nocturno) · Inglés B2 · Busco **contrato de aprendizaje** de tiempo completo en Bogotá.
+
+Pruebo todo antes de publicarlo. Probando las plantillas de Moss Nexus encontré montos en formato colombiano que sumaban cero, y lo corregí. Si algo no lo he probado, lo digo.
 
 ---
 
@@ -123,6 +125,8 @@ Mecánicas de física, rigging y animaciones con **Lua** en **Roblox Studio** pa
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/output/github-contribution-grid-snake.svg" />
   <img alt="Serpiente recorriendo mis contribuciones" src="https://raw.githubusercontent.com/Sergio-Velandia/Sergio-Velandia/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+
+**¿Tu empresa tiene procesos que se hacen a mano?** Escríbeme a [contacto@sergio-velandia.dev](mailto:contacto@sergio-velandia.dev).
 
 <sub>Desde Bogotá 🇨🇴</sub>
 
