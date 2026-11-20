@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C9A96E&center=true&vCenter=true&width=720&lines=Automatizo+procesos+con+n8n;Construyo+con+React%2C+TypeScript+y+Firebase;Documento+todo+lo+que+aprendo+en+Moss;Busco+contrato+de+aprendizaje+en+Bogot%C3%A1" alt="Automatizo procesos con n8n, construyo con React, TypeScript y Firebase, documento lo que aprendo en Moss y busco contrato de aprendizaje en Bogotá" />
 
 [![Sitio](https://img.shields.io/badge/sergio--velandia.dev-0d0f14?style=for-the-badge&logo=googlechrome&logoColor=C9A96E)](https://sergio-velandia.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-ramirezv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio-Velandia)
 [![Correo](https://img.shields.io/badge/contacto@sergio--velandia.dev-0d0f14?style=for-the-badge&logo=maildotru&logoColor=C9A96E)](mailto:contacto@sergio-velandia.dev)
 <img src="https://komarev.com/ghpvc/?username=Sergio-Velandia&style=for-the-badge&color=C9A96E&label=visitas" alt="Visitas al perfil" />
 
@@ -99,10 +99,23 @@ Mecánicas de física, rigging y animaciones con **Lua** en **Roblox Studio** pa
 
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt=""/> Actividad
+
 <div align="center">
+
+<!-- Se regenera cada día con la Action profile-summary-cards.yml -->
+<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" alt="Resumen del perfil: contribuciones por mes" />
+
+<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="170" alt="Repositorios por lenguaje" />
+<img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="170" alt="Lenguajes con más commits" />
+<img src="./profile-summary-card-output/nord_dark/3-stats.svg" height="170" alt="Estadísticas generales" />
+<img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" height="170" alt="Horas del día en que hago commits" />
 
 <img height="160" src="https://github-stats-extended.vercel.app/api?username=Sergio-Velandia&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=C9A96E&icon_color=C9A96E&text_color=F0EDE8&ring_color=C9A96E" alt="Estadísticas de GitHub" />
 <img height="160" src="https://streak-stats.demolab.com?user=Sergio-Velandia&hide_border=true&background=0d0f14&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=8A8D96&dates=3E4250&currStreakNum=F0EDE8&sideNums=F0EDE8" alt="Racha de contribuciones" />
+
+<!-- Se regenera cada día con la Action profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Calendario de contribuciones en 3D" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergio-Velandia&bg_color=0d0f14&color=C9A96E&line=C9A96E&point=F0EDE8&area=true&hide_border=true" width="100%" alt="Gráfico de actividad"/>
 
