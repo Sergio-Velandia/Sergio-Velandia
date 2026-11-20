@@ -103,13 +103,12 @@ Mecánicas de física, rigging y animaciones con **Lua** en **Roblox Studio** pa
 
 <div align="center">
 
-<!-- Se regenera cada día con la Action profile-summary-cards.yml -->
-<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" alt="Resumen del perfil: contribuciones por mes" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergio-Velandia&theme=nord_dark" width="100%" alt="Resumen del perfil: contribuciones por mes" />
 
-<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="170" alt="Repositorios por lenguaje" />
-<img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="170" alt="Lenguajes con más commits" />
-<img src="./profile-summary-card-output/nord_dark/3-stats.svg" height="170" alt="Estadísticas generales" />
-<img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" height="170" alt="Horas del día en que hago commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergio-Velandia&theme=nord_dark" height="170" alt="Repositorios por lenguaje" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sergio-Velandia&theme=nord_dark" height="170" alt="Lenguajes con más commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergio-Velandia&theme=nord_dark" height="170" alt="Estadísticas generales" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sergio-Velandia&theme=nord_dark&utcOffset=-5" height="170" alt="Horas del día en que hago commits" />
 
 <img height="160" src="https://github-stats-extended.vercel.app/api?username=Sergio-Velandia&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=C9A96E&icon_color=C9A96E&text_color=F0EDE8&ring_color=C9A96E" alt="Estadísticas de GitHub" />
 <img height="160" src="https://streak-stats.demolab.com?user=Sergio-Velandia&hide_border=true&background=0d0f14&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=8A8D96&dates=3E4250&currStreakNum=F0EDE8&sideNums=F0EDE8" alt="Racha de contribuciones" />
