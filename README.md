@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C9A96E&center=true&vCenter=true&width=720&lines=Automatizo+procesos+con+n8n;Construyo+con+React%2C+TypeScript+y+Firebase;Documento+todo+lo+que+aprendo+en+Moss;Busco+contrato+de+aprendizaje+en+Bogot%C3%A1" alt="Automatizo procesos con n8n, construyo con React, TypeScript y Firebase, documento lo que aprendo en Moss y busco contrato de aprendizaje en Bogotá" />
 
 [![Sitio](https://img.shields.io/badge/sergio--velandia.dev-0d0f14?style=for-the-badge&logo=googlechrome&logoColor=C9A96E)](https://sergio-velandia.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio-Velandia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-ramirezv)
 [![Correo](https://img.shields.io/badge/contacto@sergio--velandia.dev-0d0f14?style=for-the-badge&logo=maildotru&logoColor=C9A96E)](mailto:contacto@sergio-velandia.dev)
 <img src="https://komarev.com/ghpvc/?username=Sergio-Velandia&style=for-the-badge&color=C9A96E&label=visitas" alt="Visitas al perfil" />
 
@@ -73,7 +73,7 @@ Pruebo todo antes de publicarlo. Probando las plantillas de Moss Nexus encontré
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="26" alt=""/> Experiencia
 
-**Desarrollador de videojuegos** · Empresa privada · `Contrato de aprendizaje · mar – ago 2026`
+**Desarrollador de videojuegos** · Empresa privada · `Prestación de servicios · ene – jul 2025`
 Mecánicas de física, rigging y animaciones con **Lua** en **Roblox Studio** para un juego multijugador de terror de **12 niveles**, con entregas por nivel según lo que pedían mis líderes.
 
 ---
